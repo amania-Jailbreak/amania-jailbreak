@@ -6,5 +6,3 @@ also make Linux distri but only occasionally.
 I'll post my work here from time to time, so please check it out.
 I really like the IOS jailbreak and support the main developers!
 
-
-###### 2020 ~ 2021 Development: amania
